@@ -233,7 +233,7 @@ button {
     width: 100%;
     height: auto;
     min-height: 650px;
-    background-image: url('../images/images/mE1.jpg');
+    background-image: url('mE1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
